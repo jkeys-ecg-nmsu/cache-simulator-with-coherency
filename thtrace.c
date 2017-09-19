@@ -1,3 +1,4 @@
+// Authored by: Jonathan Cook, PhD, Professor and Interim Department Head, NMSU 
 //
 // Threaded array computation program used to generate
 // a trace of threaded array accesses, or also to time
